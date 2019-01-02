@@ -1,0 +1,78 @@
+
+
+
+.App {
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.header img , .header h1 {
+  display: inline;
+  color:lightskyblue;
+}
+h1{  border-bottom: 1px solid navy}
+.header {
+   background-color: aliceblue;
+   padding:10px
+}
+
+.componentInfo h2 {
+color:navy
+
+} 
+
+
+
+.props-info{
+  float: left;
+  background-color: aliceblue;
+  width:40%;
+  height: 200px;
+  margin:20px;
+  font-style: italic;
+  padding:10px;
+  margin-left:100px
+}
+
+.state-info{
+  float: left;
+  background-color: aliceblue;
+  width:40%;
+  height: 200px;
+  margin:20px;
+  font-style: italic;
+  padding:10px
+}
+
+.lifecycle-info{
+  float: left;
+  background-color: aliceblue;
+  width:40%;
+  height: 600px;
+  margin:20px;
+  font-style: italic;
+  padding:10px;
+  margin-left:400px;
+}
+
+.jxs-info{
+  width:80%;
+  margin-left:150px;
+  margin-top:950px;
+  text-align: center;
+
+  /* height:150px; */
+/* background-color: navy  */
+}
+
+.links{
+  width:80%;
+  margin-left:150px;
+  text-align: center;
+  background-color: aliceblue;
+
+  /* height:150px; */
+/* background-color: navy  */
+}
+
+.jxs-info h2 , .links h2{color:navy;}
